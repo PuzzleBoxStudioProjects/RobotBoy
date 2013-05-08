@@ -44,8 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\PlayerMotor.cs" />
-     <Compile Include="Assets\Scripts\PlayerPhysics.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\PlayerFollow.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\PlayerMotor.cs" />
+     <Compile Include="Assets\Scripts\Player Scripts\PlayerPhysics.cs" />
      <None Include="Assets\Prefabs\New Text Document.txt" />
      <None Include="Assets\Textures\New Text Document.txt" />
   </ItemGroup>
