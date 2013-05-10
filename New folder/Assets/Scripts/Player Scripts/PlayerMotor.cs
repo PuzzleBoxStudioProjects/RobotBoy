@@ -29,9 +29,9 @@ public class PlayerMotor : MonoBehaviour
         {
             if (Input.GetButton("Jump"))
             {
-                playerPhysics.Jump();
+                //playerPhysics.Jump();
             }
-            playerPhysics.GetMotion(Input.GetAxisRaw("Horizontal"));
+            //playerPhysics.GetMotion(Input.GetAxisRaw("Horizontal"));
         }
     }
 }
